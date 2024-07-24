@@ -1,6 +1,7 @@
 <p align="center" >
-<img src ="https://github.com/Hamaarour/minishell/blob/main/pictures/Demo.png"  width='900px' height='600px'>
+<img src ="https://github.com/oussamaettaqui/Minishell/pictures/run-minishell.png"  width='900px' height='600px'>
 </p>
 <p align="center">
-<img src ="https://github.com/Hamaarour/minishell/blob/main/pictures/team_p.png">
+<img src ="https://github.com/oussamaettaqui/Minishell/pictures/bchokri.jpeg">
+<img src ="https://github.com/oussamaettaqui/Minishell/pictures/oettaqui.jpeg">
 </p>
