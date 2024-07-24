@@ -3,7 +3,5 @@
 </p>
 <p align="center">
   <img src ="https://github.com/oussamaettaqui/Minishell/blob/main/pictures/bchokri.jpeg" width='100px' height='100px'>
-</p>
-<p align="center">
   <img src ="https://github.com/oussamaettaqui/Minishell/blob/main/pictures/oettaqui.jpeg" width='100px' height='100px'>
 </p>
