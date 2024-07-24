@@ -15,21 +15,21 @@ Minishell is a simplified command-line interpreter designed to provide a foundat
 Building Minishell was a significant undertaking, especially as my first group project. The aim was to replicate a subset of bash functionality, including:
 
 Core features:
-Interactive prompt
-Command history
-Executable search and launching
-Quote handling (single and double)
-Redirections (input, output, append, heredoc)
-Pipes
-Environment variables
-Exit status ($?>)
-Signal handling (Ctrl+C, Ctrl+D, Ctrl+)
+Interactive prompt.
+Command history.
+Executable search and launching.
+Quote handling (single and double).
+Redirections (input, output, append, heredoc).
+Pipes.
+Environment variables.
+Exit status ($?>).
+Signal handling (Ctrl+C, Ctrl+D, Ctrl+).
 Built-in commands:
-echo (with -n option)
-cd (relative or absolute paths)
-pwd (with no option)
-export (with no option)
-unset (with no option)
-env (with no option)
-exit (with no option)
+  -echo (with -n option).
+  -cd (relative or absolute paths).
+  -pwd (with no option).
+  -export (with no option).
+  -unset (with no option).
+  -env (with no option).
+  -exit (with no option).
 By tackling this project, we gained invaluable experience in command parsing, process management, and shell intricacies.
